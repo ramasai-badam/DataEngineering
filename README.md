@@ -12,7 +12,7 @@ This repo builds a complete data engineering pipeline, covering all stages from 
 
 ## Architecture
 
-![System Architecture]
+![System Architecture](https://github.com/ramasai-badam/DataEngineering/blob/main/Pipeline_Architecture.jpg)
 
 The pipeline consists of the following components:
 
