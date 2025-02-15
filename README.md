@@ -1,5 +1,3 @@
-# End-to-End Data Engineering with Real-Time Streaming
-
 ## Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
